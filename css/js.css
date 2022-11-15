@@ -1,0 +1,382 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+  }
+  
+  body {
+	color: white;
+	font-family: 'calibri';
+	background-color: beige;
+  }
+  
+  header {
+	background: url("https://weremote.net/wp-content/uploads/2022/05/programador-ordenadores-lampara-escritorio.jpg");
+	height: 450px;
+	background-size: cover;
+	background-repeat: no-repeat;
+  }
+  
+  section {
+	max-width: 1000px;
+	margin: auto;
+	padding: 30px 0;
+  }
+  
+  section h1 {
+	font-size: 44px;
+  }
+  
+  .conte {
+	text-align: center;
+	overflow: hidden;
+  }
+  
+  .conte p {
+	font-size: 60px;
+	font-weight: bold;
+	margin: 1em 0;
+  }
+  
+  .conte a {
+	color: white;
+	text-decoration: none;
+	background: #8BC34A;
+	padding: 4px 20px;
+	border-radius: 30px;
+	font-size: 30px;
+	margin: 10px;
+  }
+  .subititulo2{
+	text-align: left;
+    font-weight: 200;
+    color: #000000c5;
+    font-size: 17px;
+	font-family: 'Peralta', cursive;
+}
+.subititulo3{
+	text-align:left;
+    font-weight: 200;
+    color: #000000;
+    font-size: 17px;
+	font-family: 'Peralta', cursive;
+}
+.contenido{
+    float: left;
+    width: calc(10 - 5px);
+    min-height: 15pxpx;
+    background: rgb(235, 195, 152);
+}
+.article{
+    text-align: left;
+    color: white;
+    margin-top: 25px;
+	margin-left: 3%;
+}
+
+.subtitulo{
+    text-align: center;
+    font-weight: 300;
+    color: #000000;
+    margin-bottom: 40px;
+    font-size: 40px;
+	margin-top: -50px;
+	font-family: 'Dancing Script', cursive;
+
+}
+.subtitulo21{
+	text-align: left;
+    font-weight: 200;
+    color: #000000c5;
+    font-size: 20px;
+	font-family: 'Peralta', cursive;
+}
+.img-containerr {
+	height: 400px;
+	width: 400px;
+	border-radius: 25px;
+	cursor: pointer;
+	
+}
+
+.img-containerr img {
+	
+	position:fixed;
+}
+.contenedor-sobrenos {
+	display: flex;
+	text-align: left;
+	justify-content: space-evenly;
+	align-items: center;
+	flex-wrap: wrap;
+	font-weight: 300;
+	color: #000000c4;
+	margin-bottom: 30px;
+}
+
+.contenedor-sobrenos img {
+	width: 80%;
+	height: 80%;
+	margin-top: 5%;
+	border-radius: 2%;
+	box-shadow: 0 0 6px rgba(86, 58, 196, 0.5);
+}
+.contenedor-ss img {
+	width: 35%;
+	height: 25%;
+	margin-top: 5%;
+
+}
+
+
+.checklist-sobrenos {
+	width: 25%;
+}
+
+.sobrenos {
+	margin-bottom: 10px;
+	margin-top: 20px;
+	color: rgb(0, 0, 0);
+	font-size: 20px;
+
+}
+
+.titulo-sobrenos {
+	font-size: 50px;
+}
+.titulo-sobrenoss {
+	font-size: 50px;
+	text-align: center;
+}
+.contenido{
+    float: left;
+    width: calc(10- 10px);
+    min-height: 10px;
+    background: rgb(223, 181, 209);
+}
+
+.article{
+    text-align: left;
+    color: white;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    padding-bottom: 35px;
+    border-bottom: 4px solid rgb(255, 255, 255);
+}
+h1{
+    text-align: center;
+    font-family: 'Concert One', cursive;
+    font-size: 500%;
+   
+}
+.contenedor{
+    width: 1680px;
+    margin: 0px auto;
+    border:  0px solid black;}
+
+nav ul li{
+    float: right;
+    list-style: none;
+    margin: 20px;
+    line-height: 0px;
+}
+h3{
+    text-align: left;
+    font-family: 'Noto Sans Mono', monospace;
+    font-size: 200%;
+    color: rgb(18, 72, 250);;;
+
+}
+h4{
+    text-align: left;
+    font-family: 'Noto Sans Mono', monospace;
+    font-size: 100%;
+    color: rgb(250, 18, 18);;;
+
+}
+
+.contenedor-inicio {
+	display: flex;
+	text-align: center;
+	justify-content: space-evenly;
+	align-items: center;
+	flex-wrap: wrap;
+	font-weight: 300;
+	color: #000000c4;
+	margin-bottom: -30px;
+	font-size: 40px;
+}
+
+.contenedor-inicio img {
+	width: 40%;
+	height: 20%;
+	border-radius: 2%;
+	box-shadow: 0 0 6px rgba(0, 0, 0, .5);
+
+}
+
+.checklist-inicio {
+	width: 45%;
+}
+
+.inicio {
+	margin-bottom: -900px;
+	margin-top: 100px;
+}
+.subtitulo-inicio{
+	margin-top: -90px;
+}
+
+.text-inicio {
+	margin-top: 950px;
+	font-size: 20px;
+}
+.descripcion{
+	color: rgb(45, 24, 238);
+	font-size: 50px;
+}
+.descripcionn{
+	margin-left: 3%;
+	font-size: 120%;
+}
+.boleeanos{
+	height: 450;
+	width: 700px;
+}
+.boleeanoss{
+	height: 500px;
+	width: 500PX;
+}
+.descripcionnn{
+	font-family: 'Abel', sans-serif;
+
+	margin-left: 3%;
+	font-size: 300%;
+	color: #8BC34A;
+	text-align: left;
+}
+.ejemplos{
+	margin-left: 3%;
+	
+}
+.contenedoor{
+    width:1000%;
+	height: 50px;
+	min-height: 115px;
+    background: rgb(235, 195, 152);
+	margin-left: 3%;
+
+}
+.string{
+    text-align: left;
+    color: white;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    padding-bottom: 35px;
+    border-bottom: 4px solid rgb(255, 255, 255);
+}
+.descripcionn{
+	color: rgb(45, 24, 238);
+	font-size: 100px;
+}
+.descripcionn{
+	margin-left: 3%;
+	font-size: 120%;
+}
+.descripcioon{
+	margin-left: 10%;
+	font-size: 320%;
+	margin-right: 8%;
+	
+}
+.texto{
+	font-size:115%;
+	height: 200px;
+	color: #000000;
+	margin-left: 1%;
+	margin-right: 1%;
+	text-align: left;
+}
+.texto2{
+	font-size:115%;
+	height: 100px;
+	color: #000000;
+	margin-left: 1%;
+	margin-right: 1%;
+	text-align: left;
+}
+.texto3{
+	font-size:115%;
+	height: 130px;
+	color: #000000;
+	margin-left: 1%;
+	margin-right: 1%;
+	text-align: left;
+}
+.texto4{
+	font-size:115%;
+	height: 100x;
+	color: #000000;
+	margin-left: 1%;
+	margin-right: 1%;
+	text-align: left;
+}
+.texto5{
+	font-size:115%;
+	height: 130x;
+	color: #000000;
+	margin-left: 1%;
+	margin-right: 1%;
+	text-align: left;
+}
+
+.img-containerr {
+	height: 400px;
+	width: 400px;
+	border-radius: 25px;
+	cursor: pointer;
+	
+}
+
+.img-containerr img {
+	
+	position:fixed;
+}
+.contenedor-sobrenos {
+	display: flex;
+	text-align: left;
+	justify-content: space-evenly;
+	align-items: center;
+	flex-wrap: wrap;
+	font-weight: 300;
+	color: #000000c4;
+	margin-bottom: 30px;
+}
+
+.contenedor-sobrenos img {
+	width: 40%;
+	height: 80%;
+	margin-top: 5%;
+	border-radius: 2%;
+	box-shadow: 0 0 6px rgba(86, 58, 196, 0.5);
+}
+
+.checklist-sobrenos {
+	width: 25%;
+}
+
+.sobrenos {
+	margin-bottom: 10px;
+	margin-top: 20px;
+	color: rgb(0, 0, 0);
+	font-size: 20px;
+
+}
+
+.titulo-sobrenos {
+	font-size: 50px;
+}
+.titulo-sobrenoss {
+	font-size: 50px;
+	text-align: center;
+}
